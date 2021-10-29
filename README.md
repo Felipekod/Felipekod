@@ -1,5 +1,4 @@
-<img src="https://i.imgur.com/66wrnB7.gif">
-
+<img src="https://imgur.com/66wrnB7">
 
 Bonjour 	&#128075;
 
