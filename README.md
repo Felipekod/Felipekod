@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/66wrnB7.gif" >
 
 
-Bonjour &#U+1F44B;
+Bonjour 	&#128075;
 
 Enthousiaste de la technologie, photographie et de la science, je suis un professionnel qui a décidé de changer du domaine de la santé pour le domaine de la technologie. L’expérience dans la santé m’a permis d’avoir le sens de la prise de décisions aux moments critiques ainsi qu’une sensibilité humaine aigue. Après avoir passé à travers toute la théorie d'un AEC en programmation, je suis actuellement à la recherche de la première opportunité dans le domaine de la technologie.
 
